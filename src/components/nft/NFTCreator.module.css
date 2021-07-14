@@ -1,0 +1,28 @@
+.NFTCreator {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1rem;
+  width: 40rem;
+  margin: auto;
+}
+
+.NFTCreator form {
+  width: 100%;
+}
+
+.NFTCreator input {
+  display: block;
+  width: 100%;
+  margin: 0.5rem 0;
+  padding: 0.4rem;
+}
+
+.NFTCreator input[type="color"] {
+  padding: 0.05rem;
+}
+
+.NFTCreator button {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+}

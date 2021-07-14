@@ -1,0 +1,13 @@
+.NFTList {
+  width: 40rem;
+  margin: auto;
+}
+
+.NFTList h2 {
+  text-align: center;
+}
+
+.NFTList ul {
+  display: flex;
+  justify-content: space-evenly;
+}
